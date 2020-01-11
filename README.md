@@ -31,6 +31,4 @@ Of course, he has new functions
 1: When you visit the store, press F1 anywhere on the current map to open the store directly 
 2: Simplified hand and sea fishing 
 
-This is the first version, and more functions will be updated in succession 
-报错 
-双语对
+This is the first version, and more functions will be updated in succession
