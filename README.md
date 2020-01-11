@@ -16,6 +16,8 @@
 
 这是第一个版本 陆续还会更新更多的功能
 
+https://github.com/luyikk/RussianFishing4Reverse
+
 ------------------------------------------------------------------------------------------------------------------------------------------
 First of all, we suggest that you do not play this game, because it will upload the privacy information of your computer to their server 
 If you don't want to expose your privacy! Don't play! 
@@ -32,3 +34,4 @@ Of course, he has new functions
 2: Simplified hand and sea fishing 
 
 This is the first version, and more functions will be updated in succession
+https://github.com/luyikk/RussianFishing4Reverse
