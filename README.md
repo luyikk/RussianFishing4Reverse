@@ -15,3 +15,22 @@
 2：简化了手竿钓鱼和海竿钓鱼
 
 这是第一个版本 陆续还会更新更多的功能
+
+------------------------------------------------------------------------------------------------------------------------------------------
+First of all, we suggest that you do not play this game, because it will upload the privacy information of your computer to their server 
+If you don't want to expose your privacy! Don't play! 
+
+Here's how to upload: 
+DLL written in \ russianfishing4 \ rf4 x64; data \ plugins \ platformtools.dll C + +, they will call system API 
+Upload your current running software information MD5 and personal files in your folder to their servers secretly 
+
+If you really want to play, the following version is provided to bypass the monitoring, just put it in Russian fishing 4 \ rf4 x64; data \ managed 
+Replace the source file 
+
+Of course, he has new functions 
+1: When you visit the store, press F1 anywhere on the current map to open the store directly 
+2: Simplified hand and sea fishing 
+
+This is the first version, and more functions will be updated in succession 
+报错 
+双语对
