@@ -1,0 +1,6 @@
+C:\Users\luyik\source\repos\FilterRussianFishingUpload\FilterRussianFishingUploadInfo\bin\Debug\FilterRussianFishingUploadInfo.dll
+C:\Users\luyik\source\repos\FilterRussianFishingUpload\FilterRussianFishingUploadInfo\bin\Debug\FilterRussianFishingUploadInfo.pdb
+C:\Users\luyik\source\repos\FilterRussianFishingUpload\FilterRussianFishingUploadInfo\bin\Debug\Newtonsoft.Json.dll
+C:\Users\luyik\source\repos\FilterRussianFishingUpload\FilterRussianFishingUploadInfo\obj\Debug\FilterRussianFishingUploadInfo.csproj.CopyComplete
+C:\Users\luyik\source\repos\FilterRussianFishingUpload\FilterRussianFishingUploadInfo\obj\Debug\FilterRussianFishingUploadInfo.dll
+C:\Users\luyik\source\repos\FilterRussianFishingUpload\FilterRussianFishingUploadInfo\obj\Debug\FilterRussianFishingUploadInfo.pdb

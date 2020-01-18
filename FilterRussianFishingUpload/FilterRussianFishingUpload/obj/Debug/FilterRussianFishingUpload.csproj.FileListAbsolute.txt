@@ -1,0 +1,8 @@
+C:\Users\luyik\source\repos\FilterRussianFishingUpload\FilterRussianFishingUpload\bin\Debug\PlatformTools.dll
+C:\Users\luyik\source\repos\FilterRussianFishingUpload\FilterRussianFishingUpload\bin\Debug\FilterRussianFishingUpload.exe
+C:\Users\luyik\source\repos\FilterRussianFishingUpload\FilterRussianFishingUpload\bin\Debug\FilterRussianFishingUpload.pdb
+C:\Users\luyik\source\repos\FilterRussianFishingUpload\FilterRussianFishingUpload\obj\Debug\FilterRussianFishingUpload.exe
+C:\Users\luyik\source\repos\FilterRussianFishingUpload\FilterRussianFishingUpload\obj\Debug\FilterRussianFishingUpload.pdb
+C:\Users\luyik\source\repos\FilterRussianFishingUpload\FilterRussianFishingUpload\bin\Debug\Newtonsoft.Json.dll
+C:\Users\luyik\source\repos\FilterRussianFishingUpload\FilterRussianFishingUpload\obj\Debug\FilterRussianFishingUpload.csproj.CopyComplete
+C:\Users\luyik\source\repos\FilterRussianFishingUpload\FilterRussianFishingUpload\obj\Debug\FilterRussianFishingUpload.csprojAssemblyReference.cache

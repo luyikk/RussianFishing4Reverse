@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29709.97
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FilterRussianFishingUpload", "FilterRussianFishingUpload\FilterRussianFishingUpload.csproj", "{291989F1-7C68-4455-A7A5-A42A88DAD183}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FilterRussianFishingUploadInfo", "FilterRussianFishingUploadInfo\FilterRussianFishingUploadInfo.csproj", "{8943B92E-3081-46A1-B66E-5D863B898EB8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{291989F1-7C68-4455-A7A5-A42A88DAD183}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{291989F1-7C68-4455-A7A5-A42A88DAD183}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{291989F1-7C68-4455-A7A5-A42A88DAD183}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{291989F1-7C68-4455-A7A5-A42A88DAD183}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8943B92E-3081-46A1-B66E-5D863B898EB8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8943B92E-3081-46A1-B66E-5D863B898EB8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8943B92E-3081-46A1-B66E-5D863B898EB8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8943B92E-3081-46A1-B66E-5D863B898EB8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7AA3DEDE-468B-4AFE-B694-D9DACD653395}
+	EndGlobalSection
+EndGlobal
